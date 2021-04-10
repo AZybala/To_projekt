@@ -1,0 +1,27 @@
+Dzień dobry.
+W etapie_2 wybrałem przykład który będę chciał przedstawić, który będzie zawierał główny wątek projektu czyli Relacyjno - obiektowe bazy danych.
+
+Na chwilę obecną analizuję materiały które otrzymałem próbując zrobić jakiś prosty przykład aby mieć rozeznanie jak to działa 
+
+
+Opis programu co będzie robił 
+Projekt będzie przedstawiony na przykładzie 
+Hurtowni danych w tym wypaktu Fabryki, opis legendy znajduje się poniżej 
+
+Legenta: 
+
+Magazyn - Miejsce składowania wyrobu gotowego który czeka na sprzedaż
+
+Produkcja - produkcja produktu zamówionego przez klienta,aby produkcja była wykonana prawidłowo potrzebuje surowca
+
+
+Surowiec - Materiały potrzebne aby móc zrealizować zamówienie 
+
+Pracownik - 
+zamawia suroiwiec 
+zleca realizacje produckcji
+przyjmuje zamówienie do klienta 
+wystawia fakture
+
+Klient - 
+Zamawia wybrany przez siebie produkt 
