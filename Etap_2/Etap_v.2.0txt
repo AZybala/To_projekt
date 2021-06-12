@@ -1,0 +1,29 @@
+
+
+import pathlib
+
+
+class ConversionTool():
+
+
+    def __init__(self, filepath):
+        self.filepath = filepath
+        print(self.filepath)
+        self.filetype = ''.join(pathlib.Path(filepath).suffixes)
+        print(self.filetype)
+
+    def convert(self):
+
+        if (self.filetype == '.json'):
+            self.json_to_csv()
+            self.json_to_xml()
+            self.json_to_yaml()
+        elif (self.filetype == '.csv'):
+            self.csv_to_json()
+        elif (self.filetype == '.xml'):
+            pass
+        elif (self.filepath == '.yaml'):
+            pass
+        else:
+            print("Wrong file type")
+
