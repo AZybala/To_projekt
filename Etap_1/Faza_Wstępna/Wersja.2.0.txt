@@ -1,0 +1,10 @@
+
+Zybała Adrian; s085372@student.tu.kielce.pl; zespół jedno-osobowy
+
+Temat projektu - Został zmieniony z tematu 11 na temat 42
+Konwersja pomiędzy formatami
+Celem projektu jest opracowanie narzędzia do automatycznej konwersji pomiędzy różnymi formatami, np. XML, JSON, CSV i YAML lub HTML i MD. Należy zapewnić konwersję pomiędzy pojedynczym plikiem (np. JSON, XML, itp.) na grupę plików (np. CSV, TXT, itp.).
+
+Technologie: 
+
+Pyton
